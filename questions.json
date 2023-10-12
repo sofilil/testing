@@ -1,81 +1,81 @@
 {"questions": [
     {
-      "title": "Hva er hovedstaden i Norge?",
+      "title": "Hvilket rammeverk for testing av javascript skal vi bruke i kurset?",
       "answers": [
-        { "answer": "Bergen" },
+        { "answer": "Jasmine" },
         {
-          "answer": "Stavanger"
+          "answer": "React"
         },
         {
-          "answer": "Molde"
+          "answer": "Mocha"
         },
         {
-          "answer": "Oslo",
+          "answer": "Jest",
           "correct": true
         }
       ],
       "helper": {
-        "text": "Byen het Kristiania før i tiden."
+        "text": "Logoen er skoen til en joker."
       }
     },
 
     {
-        "title": "Hvilken valuta brukes i Norge? ",
+        "title": "Hva bruker vi 'descrive' til i testing? ",
         "answers": [
-          { "answer": "Euro" },
+          { "answer": "Beskrive testen" },
           {
-            "answer": "Dollar"
+            "answer": "Beskrive koden"
           },
           {
-            "answer": "SEK"
+            "answer": "Kommentere i koden"
           },
           {
-            "answer": "NOK",
+            "answer": "Gruppere flere relaterte tester",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Den norske krone."
+          "text": "Gjør det mer effektivt."
         }
       },
 
       {
-        "title": "Hva er Norges største flyplass?",
+        "title": "Hvilke type tester har man?",
         "answers": [
-          { "answer": "Torp" },
+          { "answer": "Online" },
           {
-            "answer": "Flesland"
+            "answer": "Offline"
           },
           {
-            "answer": "Rygge"
+            "answer": "Individuelle"
           },
           {
-            "answer": "Gardermoen",
+            "answer": "Automatiserte og manuelle",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Også kalt Oslo Airport."
+          "text": "Noe gjør man selv, noe gjøres av seg selv."
         }
       },
 
       {
-        "title": "I hvilken by ligger Fredriksten festning?",
+        "title": "Hva er Mock-funksjon?",
         "answers": [
-          { "answer": "Fredrikstad" },
+          { "answer": "En funksjon som gjør narr av noe" },
           {
-            "answer": "Strømstad"
+            "answer": "En lure-funksjon"
           },
           {
-            "answer": "Frankerike"
+            "answer": "En funksjon som ikke gjør noen ting"
           },
           {
-            "answer": "Halden",
+            "answer": "En simulert funksjon som logger alle kall",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Den ligger i verdens beste by."
+          "text": "Brukes til å etterligne oppførsel."
         }
       }
   ]}
