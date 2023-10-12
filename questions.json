@@ -20,7 +20,7 @@
     },
 
     {
-        "title": "Hva bruker vi 'descrive' til i testing? ",
+        "title": "Hva bruker vi 'describe' til i testing? ",
         "answers": [
           { "answer": "Beskrive testen" },
           {
@@ -60,7 +60,7 @@
       },
 
       {
-        "title": "Hva er Mock-funksjon?",
+        "title": "Hva er en Mock-funksjon?",
         "answers": [
           { "answer": "En funksjon som gjør narr av noe" },
           {
