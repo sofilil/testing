@@ -1,0 +1,81 @@
+{"questions": [
+    {
+      "title": "Spørsmål kommer her",
+      "answers": [
+        { "answer": "Svaralternativ 1" },
+        {
+          "answer": "Svaralternativ 2"
+        },
+        {
+          "answer": "Svaralternativ 3"
+        },
+        {
+          "answer": "Svaralternativ 4",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Hjelpetekst kommer her"
+      }
+    },
+
+    {
+        "title": "Spørsmål kommer her",
+        "answers": [
+          { "answer": "Svaralternativ 1" },
+          {
+            "answer": "Svaralternativ 2"
+          },
+          {
+            "answer": "Svaralternativ 3"
+          },
+          {
+            "answer": "Svaralternativ 4",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Hjelpetekst kommer her"
+        }
+      },
+
+      {
+        "title": "Spørsmål kommer her",
+        "answers": [
+          { "answer": "Svaralternativ 1" },
+          {
+            "answer": "Svaralternativ 2"
+          },
+          {
+            "answer": "Svaralternativ 3"
+          },
+          {
+            "answer": "Svaralternativ 4",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Hjelpetekst kommer her"
+        }
+      },
+
+      {
+        "title": "Spørsmål kommer her",
+        "answers": [
+          { "answer": "Svaralternativ 1" },
+          {
+            "answer": "Svaralternativ 2"
+          },
+          {
+            "answer": "Svaralternativ 3"
+          },
+          {
+            "answer": "Svaralternativ 4",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Hjelpetekst kommer her"
+        }
+      }
+  ]}
