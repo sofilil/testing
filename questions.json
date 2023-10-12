@@ -1,81 +1,81 @@
 {"questions": [
     {
-      "title": "Spørsmål kommer her",
+      "title": "Hva er hovedstaden i Norge?",
       "answers": [
-        { "answer": "Svaralternativ 1" },
+        { "answer": "Bergen" },
         {
-          "answer": "Svaralternativ 2"
+          "answer": "Stavanger"
         },
         {
-          "answer": "Svaralternativ 3"
+          "answer": "Molde"
         },
         {
-          "answer": "Svaralternativ 4",
+          "answer": "Oslo",
           "correct": true
         }
       ],
       "helper": {
-        "text": "Hjelpetekst kommer her"
+        "text": "Byen het Kristiania før i tiden."
       }
     },
 
     {
-        "title": "Spørsmål kommer her",
+        "title": "Hvilken valuta brukes i Norge? ",
         "answers": [
-          { "answer": "Svaralternativ 1" },
+          { "answer": "Euro" },
           {
-            "answer": "Svaralternativ 2"
+            "answer": "Dollar"
           },
           {
-            "answer": "Svaralternativ 3"
+            "answer": "SEK"
           },
           {
-            "answer": "Svaralternativ 4",
+            "answer": "NOK",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Hjelpetekst kommer her"
+          "text": "Den norske krone."
         }
       },
 
       {
-        "title": "Spørsmål kommer her",
+        "title": "Hva er Norges største flyplass?",
         "answers": [
-          { "answer": "Svaralternativ 1" },
+          { "answer": "Torp" },
           {
-            "answer": "Svaralternativ 2"
+            "answer": "Flesland"
           },
           {
-            "answer": "Svaralternativ 3"
+            "answer": "Rygge"
           },
           {
-            "answer": "Svaralternativ 4",
+            "answer": "Gardermoen",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Hjelpetekst kommer her"
+          "text": "Også kalt Oslo Airport."
         }
       },
 
       {
-        "title": "Spørsmål kommer her",
+        "title": "I hvilken by ligger Fredriksten festning?",
         "answers": [
-          { "answer": "Svaralternativ 1" },
+          { "answer": "Fredrikstad" },
           {
-            "answer": "Svaralternativ 2"
+            "answer": "Strømstad"
           },
           {
-            "answer": "Svaralternativ 3"
+            "answer": "Frankerike"
           },
           {
-            "answer": "Svaralternativ 4",
+            "answer": "Halden",
             "correct": true
           }
         ],
         "helper": {
-          "text": "Hjelpetekst kommer her"
+          "text": "Den ligger i verdens beste by."
         }
       }
   ]}
